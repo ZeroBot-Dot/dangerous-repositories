@@ -1,0 +1,6 @@
+.git/
+.github/
+.idea/
+dangerous-repositories.sqbpro
+dangerous-repositories.sqlite3
+db_converter.py
